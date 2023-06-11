@@ -38,7 +38,6 @@ class StudentPageRepositoryTest {
     void searchAndPage() {
         //given
         String name="ki";
-
         // 페이지 정보 생성!!!
         int size=10;
         int page=1;
